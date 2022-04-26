@@ -2,7 +2,6 @@
 
 - 🔭 Estou em busca da primeira oportunidade
 - 🌱 No momento estou estudando React
-- 😄 Pronouns: ele/dele
 
   ##
   
