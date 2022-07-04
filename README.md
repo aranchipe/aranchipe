@@ -2,8 +2,8 @@
 
 - 🔭 Estou em busca da primeira oportunidade
 - 🌱 No momento estou estudando React
-- 👨‍🎓Graduando em Engenharia Mecânica - UFBA
-- 📕 Cursando Desenvolvimento de Software Full Stack - Cubos Academy
+- 👨‍🎓 Desenvolvedor de Software Full Stack - Cubos Academy
+- 👨‍🎓 Graduando em Engenharia Mecânica - UFBA
 
   ##
   
