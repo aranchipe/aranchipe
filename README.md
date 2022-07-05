@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Lucas Aranchipe
 
 - 🔭 Estou em busca da primeira oportunidade
-- 🌱 No momento estou estudando React
+- 🌱 No momento estou estudando TypeScript
 - 👨‍🎓 Desenvolvedor de Software Full Stack - Cubos Academy
 - 👨‍🎓 Graduando em Engenharia Mecânica - UFBA
 
